@@ -130,7 +130,7 @@
   :title: Certificates
   :category: component
   :url: http://curl.haxx.se/ca
-  :file: cacert.pem
+  :file: cacert-2017-06-07.pem
 
 :mysql_gem:
   :name: Mysql
